@@ -50,7 +50,7 @@ frontend-assignment/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ashu909009/TALENTFLOW-A-MINI-HIRING-PLATFORM.git
+git clone []https://github.com/Ashu909009/TALENTFLOW-A-MINI-HIRING-PLATFORM.git
 cd frontend-assignment
 ```
 
