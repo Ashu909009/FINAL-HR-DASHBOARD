@@ -1,9 +1,15 @@
-# HR Management Dashboard
+# HR Management Dashboard by Ayush Kumar Maurya
 
 A modern HR Management Dashboard built with Next.js, TypeScript, and Tailwind CSS.
 
-## Live Demo
-[View Live Demo](https://frontend-dashboard-4qgy7nvqy-ram-charans-projects-33516711.vercel.app)
+
+# How to Sign up
+
+sign up using any details -Just write xxxxxxx@gmail.com in the email section and write anything in the password section
+For example : 
+Email- lkoayush22@gmail.com
+Password- Naukri@2026
+
 
 ## Features
 
@@ -44,7 +50,7 @@ frontend-assignment/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ramcharan0308/frontend-dashboard.git
+git clone https://github.com/Ashu909009/TALENTFLOW-A-MINI-HIRING-PLATFORM.git
 cd frontend-assignment
 ```
 
